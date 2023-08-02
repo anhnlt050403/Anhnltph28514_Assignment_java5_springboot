@@ -1,0 +1,9 @@
+.btn {
+    color: black; /* màu chữ ban đầu */
+    background-color: white; /* màu nền ban đầu */
+}
+
+.btn:hover {
+    color: white; /* màu chữ khi di chuột vào */
+    background-color: blue; /* màu nền khi di chuột vào */
+}
